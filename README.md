@@ -238,4 +238,4 @@ This repository serves as the official landing page for Malted. The software is 
 **Get the most recent version of Malted today!**
 
 ---
-**Last updated:** 2026-10-18 10:17:56 UTC
+**Last updated:** 2026-10-18 14:15:34 UTC
